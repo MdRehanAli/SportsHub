@@ -1,0 +1,127 @@
+
+.Heading{
+    margin: auto;
+    border: 10px solid rgb(128, 128, 128);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: aqua;
+    width: 50%;
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+}
+
+.Separator{
+    height: 3px;
+    background-color: aquamarine;
+    color: aquamarine;
+    border: 1px solid aquamarine;     
+}
+
+.News-headline{
+    margin: 5px;
+    color: rgb(151, 55, 151);
+}
+
+.News{
+    margin: 60px 60px 60px 60px;
+        
+}
+
+.Button-play{
+    margin: 30px 80px 0px 79px;
+    background-color: rgba(161, 6, 135, 0.37);
+}
+
+.Button_Inside{
+    cursor: pointer;
+    margin: 5px;
+    background-color: white;
+    border-color: rgb(145, 3, 3);
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.Sign_in{
+    background-color: green;
+    border-color: rgb(145, 3, 3);
+    color: chartreuse;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.Subscribe{
+    background-color: red;
+    border-color: rgb(145, 3, 3);
+    color: black;
+}
+
+.Search_bar{
+    margin: 10px auto;
+    width: 25%;
+
+}
+
+.Search_button{
+    cursor: pointer;
+    background-color: orange;
+    border-color: orange;
+    color: black;
+}
+
+.Sp{
+    text-align: center;
+    color: dodgerblue;
+    font-family: cursive;
+    font-size: 25px;
+}
+
+.Sports{
+    background-color: rgb(151, 151, 151);
+    border-color: rgb(151, 151, 151);
+}
+
+
+.News_title{
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.Details{
+    text-align: justify;
+    font-size: 24px;
+    display: inline-block;
+}
+
+
+.Page_role{
+    margin: 20px auto;
+    width: 20%;
+}
+
+.Current_page{
+    cursor: pointer;
+    background-color: paleturquoise;
+    border-color: paleturquoise;
+    color: green;
+}
+
+.Zoom{
+    cursor: zoom-in;
+}
+
+.Footer_Link{
+    margin: 30px 234px 0px 234px;
+    
+}
+
+.Footer_content{
+    cursor: pointer;
+    margin: 10px;
+    background-color: rgb(190, 255, 233);
+    border-color: rgb(255, 136, 127);
+    font-family: cursive;
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(26, 18, 49);
+}
